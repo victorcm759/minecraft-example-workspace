@@ -8,3 +8,5 @@ Ejemplo de espacio de trabajo para Minecraft 1.7.10
 
 ## Créditos
 Originalmente creado con el [fork original de anatawa12](https://github.com/anatawa12/ForgeGradle-1.2)
+
+&copy; 2024 Víctor Català Mendoza
